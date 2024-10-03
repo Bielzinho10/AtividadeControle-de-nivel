@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\AtividadeControle-de-nivel\ControleDeNivel\bin\Debug\net8.0\ControleDeNivel.exe
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\AtividadeControle-de-nivel\ControleDeNivel\bin\Debug\net8.0\ControleDeNivel.deps.json
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\AtividadeControle-de-nivel\ControleDeNivel\bin\Debug\net8.0\ControleDeNivel.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\AtividadeControle-de-nivel\ControleDeNivel\bin\Debug\net8.0\ControleDeNivel.dll
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\AtividadeControle-de-nivel\ControleDeNivel\bin\Debug\net8.0\ControleDeNivel.pdb
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\AtividadeControle-de-nivel\ControleDeNivel\obj\Debug\net8.0\ControleDeNivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\AtividadeControle-de-nivel\ControleDeNivel\obj\Debug\net8.0\ControleDeNivel.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\AtividadeControle-de-nivel\ControleDeNivel\obj\Debug\net8.0\ControleDeNivel.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\AtividadeControle-de-nivel\ControleDeNivel\obj\Debug\net8.0\ControleDeNivel.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\AtividadeControle-de-nivel\ControleDeNivel\obj\Debug\net8.0\ControleDeNivel.sourcelink.json
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\AtividadeControle-de-nivel\ControleDeNivel\obj\Debug\net8.0\ControleDeNivel.dll
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\AtividadeControle-de-nivel\ControleDeNivel\obj\Debug\net8.0\refint\ControleDeNivel.dll
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\AtividadeControle-de-nivel\ControleDeNivel\obj\Debug\net8.0\ControleDeNivel.pdb
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\AtividadeControle-de-nivel\ControleDeNivel\obj\Debug\net8.0\ControleDeNivel.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\AtividadeControle-de-nivel\ControleDeNivel\obj\Debug\net8.0\ref\ControleDeNivel.dll
