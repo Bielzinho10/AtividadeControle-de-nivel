@@ -5,3 +5,4 @@
 07/10/2024 16:21:46 - gabriel - CPF: 17649351323 - depósito: R$ 100
 07/10/2024 16:24:10 - gabriel - CPF: 17649351323 - depósito: R$ 100
 07/10/2024 16:24:26 - gabriel - CPF: 17649351323 - saque: R$ 50
+08/10/2024 14:26:39 - gabriel - CPF: 14356477891 - transferência: R$ 250,1250
